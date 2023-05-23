@@ -12,6 +12,8 @@ Plug 'ThePrimeagen/vim-be-good'
 
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.1' }
 
+Plug 'lewis6991/gitsigns.nvim'
+
 call plug#end()
 
 :set number
